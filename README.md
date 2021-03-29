@@ -1,4 +1,4 @@
-### Hi there 👋
+### 欢迎欢迎，热烈欢迎 👋
 
 <!--
 **MemoryD/MemoryD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
